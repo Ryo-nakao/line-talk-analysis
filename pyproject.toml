@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "study"
+name = "line-talk-analysis"
 version = "0.1.0"
 description = ""
 authors = ["Ryo NakaoS"]
